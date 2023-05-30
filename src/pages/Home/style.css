@@ -1,0 +1,13 @@
+img{
+    max-width: 100%;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: monospace;
+}
+.search-result{
+    font-size: 14px;
+    font-weight: 500;
+    color: #00000063;
+}
